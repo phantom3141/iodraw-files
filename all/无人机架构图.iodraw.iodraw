@@ -4,24 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="39150e848f15840c-11" style="edgeStyle=none;rounded=0;html=1;dashed=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=8;endArrow=open;endFill=0;endSize=16;fontFamily=Verdana;fontSize=12;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="484.39999999999986" y="460" as="sourcePoint" />
-            <mxPoint x="374.6135273664099" y="248.87216801232717" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="39150e848f15840c-12" style="edgeStyle=none;rounded=0;html=1;dashed=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=8;endArrow=open;endFill=0;endSize=16;fontFamily=Verdana;fontSize=12;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="769.995918367347" y="411.16" as="sourcePoint" />
-            <mxPoint x="855.5211227957836" y="249.99787916352003" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="39150e848f15840c-13" style="edgeStyle=elbowEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=8;endArrow=none;endFill=0;endSize=16;fontFamily=Verdana;fontSize=12;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="630" y="230" as="sourcePoint" />
-            <mxPoint x="630" y="195" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
