@@ -19,7 +19,7 @@
         <mxCell id="_laRrJpBwpcX4OPRM3be-9" value="激光雷达" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=20;strokeColor=#B3B3B3;" vertex="1" parent="1">
           <mxGeometry x="270" y="280" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="_laRrJpBwpcX4OPRM3be-10" value="激光雷达" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=20;strokeColor=#B3B3B3;" vertex="1" parent="1">
+        <mxCell id="_laRrJpBwpcX4OPRM3be-10" value="单目相机" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=20;strokeColor=#B3B3B3;" vertex="1" parent="1">
           <mxGeometry x="430" y="280" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
