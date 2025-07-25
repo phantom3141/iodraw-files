@@ -100,6 +100,17 @@
             <mxPoint x="-6" y="-12" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="HlTvoTgZvCNT10Va7Z5X-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;dashed=1;jumpStyle=none;strokeColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="840" y="540" as="sourcePoint" />
+            <mxPoint x="840" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HlTvoTgZvCNT10Va7Z5X-23" value="飞控指令" style="edgeLabel;html=1;align=right;verticalAlign=middle;resizable=0;points=[];fontSize=20;horizontal=1;textDirection=vertical-lr;labelPosition=left;verticalLabelPosition=middle;spacingLeft=13;" vertex="1" connectable="0" parent="HlTvoTgZvCNT10Va7Z5X-22">
+          <mxGeometry x="0.3169" y="1" relative="1" as="geometry">
+            <mxPoint x="-9" y="21" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
