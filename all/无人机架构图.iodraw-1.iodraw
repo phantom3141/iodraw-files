@@ -53,10 +53,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HlTvoTgZvCNT10Va7Z5X-11" value="飞控系统" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="580" y="780" width="110" height="50" as="geometry" />
+          <mxGeometry x="570" y="800" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HlTvoTgZvCNT10Va7Z5X-12" value="通信传输" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="220" y="800" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HlTvoTgZvCNT10Va7Z5X-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="580" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
