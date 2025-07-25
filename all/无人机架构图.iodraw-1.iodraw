@@ -106,12 +106,13 @@
             <mxPoint x="850" y="720" as="targetPoint" />
             <Array as="points">
               <mxPoint x="510" y="730" />
+              <mxPoint x="630" y="730" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="HlTvoTgZvCNT10Va7Z5X-23" value="任务指令" style="edgeLabel;html=1;align=right;verticalAlign=middle;resizable=0;points=[];fontSize=20;horizontal=1;textDirection=vertical-lr;labelPosition=left;verticalLabelPosition=middle;spacingLeft=13;" vertex="1" connectable="0" parent="HlTvoTgZvCNT10Va7Z5X-22">
           <mxGeometry x="0.3169" y="1" relative="1" as="geometry">
-            <mxPoint x="39" y="-11" as="offset" />
+            <mxPoint x="-87" y="21" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
