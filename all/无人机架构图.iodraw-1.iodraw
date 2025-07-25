@@ -90,6 +90,9 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="274.5" y="580" as="sourcePoint" />
             <mxPoint x="274.5" y="710" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="275" y="665" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="HlTvoTgZvCNT10Va7Z5X-21" value="识别数据" style="edgeLabel;html=1;align=right;verticalAlign=middle;resizable=0;points=[];fontSize=20;horizontal=1;textDirection=vertical-lr;labelPosition=left;verticalLabelPosition=middle;spacingLeft=13;" vertex="1" connectable="0" parent="HlTvoTgZvCNT10Va7Z5X-20">
