@@ -70,7 +70,7 @@
             <mxPoint x="550" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HlTvoTgZvCNT10Va7Z5X-16" value="飞控" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;horizontal=0;" vertex="1" connectable="0" parent="HlTvoTgZvCNT10Va7Z5X-15">
+        <mxCell id="HlTvoTgZvCNT10Va7Z5X-16" value="飞控" style="edgeLabel;html=1;align=center;verticalAlign=bottom;resizable=0;points=[];fontSize=20;horizontal=0;" vertex="1" connectable="0" parent="HlTvoTgZvCNT10Va7Z5X-15">
           <mxGeometry x="0.3169" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
