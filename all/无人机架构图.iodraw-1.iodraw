@@ -1,0 +1,28 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="24.7.17">
+  <diagram name="Page-1" id="5f0bae14-7c28-e335-631c-24af17079c00">
+    <mxGraphModel dx="1042" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_laRrJpBwpcX4OPRM3be-2" value="" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=left;verticalLabelPosition=top;align=right;verticalAlign=bottom;" parent="1" vertex="1">
+          <mxGeometry x="190" y="220" width="520" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="_laRrJpBwpcX4OPRM3be-4" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;无人机&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelPosition=center;verticalLabelPosition=middle;" parent="1" vertex="1">
+          <mxGeometry x="190" y="220" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_laRrJpBwpcX4OPRM3be-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="330" y="430" width="240" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="_laRrJpBwpcX4OPRM3be-6" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;数据处理平台&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="380" y="395" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_laRrJpBwpcX4OPRM3be-9" value="激光雷达" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=20;strokeColor=#B3B3B3;" parent="1" vertex="1">
+          <mxGeometry x="270" y="280" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_laRrJpBwpcX4OPRM3be-10" value="单目相机" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=20;strokeColor=#B3B3B3;" parent="1" vertex="1">
+          <mxGeometry x="430" y="280" width="110" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
