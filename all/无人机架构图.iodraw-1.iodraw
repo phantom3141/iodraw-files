@@ -64,7 +64,7 @@
         <mxCell id="HlTvoTgZvCNT10Va7Z5X-14" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;任务管理控制模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="630" width="240" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="HlTvoTgZvCNT10Va7Z5X-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="HlTvoTgZvCNT10Va7Z5X-14" target="HlTvoTgZvCNT10Va7Z5X-2">
+        <mxCell id="HlTvoTgZvCNT10Va7Z5X-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="HlTvoTgZvCNT10Va7Z5X-14" target="HlTvoTgZvCNT10Va7Z5X-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="500" y="530" as="sourcePoint" />
             <mxPoint x="550" y="480" as="targetPoint" />
