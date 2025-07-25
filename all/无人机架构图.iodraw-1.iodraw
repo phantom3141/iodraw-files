@@ -115,7 +115,7 @@
             <mxPoint x="-31" y="21" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HlTvoTgZvCNT10Va7Z5X-28" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="HlTvoTgZvCNT10Va7Z5X-28" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="HlTvoTgZvCNT10Va7Z5X-11" target="HlTvoTgZvCNT10Va7Z5X-14">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="500" y="560" as="sourcePoint" />
             <mxPoint x="550" y="510" as="targetPoint" />
