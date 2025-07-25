@@ -97,7 +97,7 @@
         </mxCell>
         <mxCell id="HlTvoTgZvCNT10Va7Z5X-21" value="识别数据" style="edgeLabel;html=1;align=right;verticalAlign=middle;resizable=0;points=[];fontSize=20;horizontal=1;textDirection=vertical-lr;labelPosition=left;verticalLabelPosition=middle;spacingLeft=13;" vertex="1" connectable="0" parent="HlTvoTgZvCNT10Va7Z5X-20">
           <mxGeometry x="0.3169" y="1" relative="1" as="geometry">
-            <mxPoint x="34" y="-26" as="offset" />
+            <mxPoint x="-6" y="-12" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
