@@ -75,6 +75,17 @@
             <mxPoint x="-9" y="21" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="HlTvoTgZvCNT10Va7Z5X-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;dashed=1;jumpStyle=none;strokeColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="810" y="520" as="sourcePoint" />
+            <mxPoint x="810" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HlTvoTgZvCNT10Va7Z5X-19" value="飞控指令" style="edgeLabel;html=1;align=right;verticalAlign=middle;resizable=0;points=[];fontSize=20;horizontal=1;textDirection=vertical-lr;labelPosition=left;verticalLabelPosition=middle;spacingLeft=13;" vertex="1" connectable="0" parent="HlTvoTgZvCNT10Va7Z5X-18">
+          <mxGeometry x="0.3169" y="1" relative="1" as="geometry">
+            <mxPoint x="-9" y="21" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
