@@ -22,7 +22,7 @@
         <mxCell id="_laRrJpBwpcX4OPRM3be-10" value="单目相机" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=20;strokeColor=#B3B3B3;" parent="1" vertex="1">
           <mxGeometry x="430" y="280" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="HlTvoTgZvCNT10Va7Z5X-2" value="昇腾atlas 200i dk a2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HlTvoTgZvCNT10Va7Z5X-2" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;昇腾&lt;/font&gt;&lt;div&gt;atlas 200i dk a2&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="430" width="240" height="100" as="geometry" />
         </mxCell>
       </root>
